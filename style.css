@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* HEADER */
+.mainmenu {
+    background-color: #6d3b33;
+}
+.logo
+{
+    height: 56px;
+    width: 180px;
+}
+
+/* HEADER END */
+
