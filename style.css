@@ -3,9 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    width: 80%;
+}
 /* HEADER */
+header footer {
+    background-color: black;
+}
 .mainmenu {
     background-color: #6d3b33;
+}
+.mainmenu li{
+    color: #ededed;
 }
 .logo
 {
