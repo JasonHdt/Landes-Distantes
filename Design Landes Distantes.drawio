@@ -271,17 +271,6 @@
         <mxCell id="AWEW7dulBsZxIiq0QHkI-125" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#0d0d0d, #ededed);" vertex="1" parent="1">
           <mxGeometry x="3495" y="1460" width="1444" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="AWEW7dulBsZxIiq0QHkI-140" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=12.06;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3451" y="774" as="sourcePoint" />
-            <mxPoint x="3440" y="1574" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AWEW7dulBsZxIiq0QHkI-141" value="When not : Welcome page = Sliding page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;horizontal=0;" vertex="1" connectable="0" parent="AWEW7dulBsZxIiq0QHkI-140">
-          <mxGeometry x="-0.2249" y="-3" relative="1" as="geometry">
-            <mxPoint y="55" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AWEW7dulBsZxIiq0QHkI-142" value="" style="whiteSpace=wrap;html=1;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3514.06" y="1897" width="1440" height="1383" as="geometry" />
         </mxCell>
@@ -361,6 +350,12 @@
         </mxCell>
         <mxCell id="AWEW7dulBsZxIiq0QHkI-164" value="This must always stay visible" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="5373" y="1905.5" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-165" value="Accueil" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="4020" y="703" width="493" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-166" value="When on a page other that &quot; Accueil &quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3867" y="1823" width="863" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
