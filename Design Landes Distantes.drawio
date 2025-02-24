@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="PeVcK4OMLYsoqQbRp7si">
-    <mxGraphModel dx="3188" dy="2280" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4780" dy="3267" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,20 +217,17 @@
         <mxCell id="AWEW7dulBsZxIiq0QHkI-119" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#6b7d8d, #ededed);fillColor=light-dark(#f6ede2, #EDEDED);fontColor=light-dark(#6b7d8d, #ededed);" vertex="1" parent="1">
           <mxGeometry x="3498" y="811" width="1435" height="655" as="geometry" />
         </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-129" value="Image avec un masque qui s&#39;incruste" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=none;fontSize=21;spacing=50;" vertex="1" parent="1">
+          <mxGeometry x="4213" y="609" width="974" height="992" as="geometry" />
+        </mxCell>
         <mxCell id="AWEW7dulBsZxIiq0QHkI-123" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#0d0d0d, #ededed);fontColor=light-dark(#6d3b33, #ededed);" vertex="1" parent="1">
           <mxGeometry x="3496" y="764" width="1442" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="AWEW7dulBsZxIiq0QHkI-125" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#0d0d0d, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="3495" y="1460" width="1440" height="118" as="geometry" />
         </mxCell>
         <mxCell id="AWEW7dulBsZxIiq0QHkI-126" value="&lt;div&gt;Lorem ipsum odor amet, consectetuer adipiscing elit. Id purus morbi volutpat facilisi conubia mattis vel pellentesque. Hendrerit mollis ex eu sapien praesent adipiscing. Nisi ridiculus proin montes porttitor, mattis magnis ut fringilla. Lectus tortor consequat ut inceptos, id facilisis maximus. Orci vestibulum non torquent aliquet class lacus convallis potenti a. Per torquent viverra sem vivamus lorem inceptos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Natoque sed class mattis, posuere praesent commodo facilisis. Aliquam amet risus class feugiat quisque eget; hac venenatis himenaeos. Quisque quam gravida parturient primis rutrum neque cubilia. Dis nostra est felis euismod eros nunc convallis. Vestibulum ornare rhoncus donec semper consectetur elit nam habitasse. Ultricies porttitor molestie curabitur lacinia id sollicitudin rhoncus euismod auctor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#f6ede2, #EDEDED);strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="3710" y="1048" width="543" height="314" as="geometry" />
         </mxCell>
         <mxCell id="AWEW7dulBsZxIiq0QHkI-127" value="Title H1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=90;fontColor=light-dark(#6b7d8d, #ededed);" vertex="1" parent="1">
           <mxGeometry x="3823" y="990" width="349" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="AWEW7dulBsZxIiq0QHkI-129" value="Image avec un masque qui s&#39;incruste" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=none;fontSize=21;spacing=50;" vertex="1" parent="1">
-          <mxGeometry x="4339" y="853" width="434" height="552" as="geometry" />
         </mxCell>
         <mxCell id="AWEW7dulBsZxIiq0QHkI-120" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;strokeColor=light-dark(#6d3b33, #ededed);fillColor=light-dark(#6d3b33, #ededed);size=-10;labelBorderColor=none;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="3282.94" y="988.2" width="604.12" height="136" as="geometry" />
@@ -267,6 +264,103 @@
         </mxCell>
         <mxCell id="AWEW7dulBsZxIiq0QHkI-138" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;hover&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#f6ede2, #ededed);fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="3555" y="948" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-139" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3482" y="703" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-125" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#0d0d0d, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3495" y="1460" width="1444" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-140" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=12.06;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3451" y="774" as="sourcePoint" />
+            <mxPoint x="3440" y="1574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-141" value="When not : Welcome page = Sliding page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;horizontal=0;" vertex="1" connectable="0" parent="AWEW7dulBsZxIiq0QHkI-140">
+          <mxGeometry x="-0.2249" y="-3" relative="1" as="geometry">
+            <mxPoint y="55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-142" value="" style="whiteSpace=wrap;html=1;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3514.06" y="1897" width="1440" height="1383" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-143" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#6b7d8d, #ededed);fillColor=light-dark(#f6ede2, #EDEDED);fontColor=light-dark(#6b7d8d, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3515.06" y="1941" width="1435" height="1262" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-144" value="Image avec un masque qui s&#39;incruste" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=none;fontSize=21;spacing=50;" vertex="1" parent="1">
+          <mxGeometry x="4230.06" y="1739" width="974" height="992" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-145" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#0d0d0d, #ededed);fontColor=light-dark(#6d3b33, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3513.06" y="1894" width="1442" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-146" value="&lt;div&gt;Lorem ipsum odor amet, consectetuer adipiscing elit. Id purus morbi volutpat facilisi conubia mattis vel pellentesque. Hendrerit mollis ex eu sapien praesent adipiscing. Nisi ridiculus proin montes porttitor, mattis magnis ut fringilla. Lectus tortor consequat ut inceptos, id facilisis maximus. Orci vestibulum non torquent aliquet class lacus convallis potenti a. Per torquent viverra sem vivamus lorem inceptos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Natoque sed class mattis, posuere praesent commodo facilisis. Aliquam amet risus class feugiat quisque eget; hac venenatis himenaeos. Quisque quam gravida parturient primis rutrum neque cubilia. Dis nostra est felis euismod eros nunc convallis. Vestibulum ornare rhoncus donec semper consectetur elit nam habitasse. Ultricies porttitor molestie curabitur lacinia id sollicitudin rhoncus euismod auctor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#f6ede2, #EDEDED);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3727.06" y="2178" width="543" height="314" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-147" value="Title H1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=90;fontColor=light-dark(#6b7d8d, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3840.06" y="2120" width="349" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-148" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;strokeColor=light-dark(#6d3b33, #ededed);fillColor=light-dark(#6d3b33, #ededed);size=-10;labelBorderColor=none;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="3300" y="2118.2" width="604.12" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-149" value="&lt;div style=&quot;line-height: 30%;&quot;&gt;&lt;span style=&quot;font-size: 15px; line-height: 100%;&quot;&gt;LANDES DISTANTES&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#f6ede2, #ededed);fontFamily=Times New Roman;fontSize=33;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="3534.56" y="1898" width="135" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-150" value="" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#f6ede2, #ededed);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3637.56" y="1940" as="sourcePoint" />
+            <mxPoint x="3566.56" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-151" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;strokeColor=light-dark(#6d3b33, #ededed);size=50.88888888888869;fillColor=light-dark(#6d3b33, #ededed);strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="3542.06" y="2428" width="120" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-152" value="Personnages" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#f6ede2, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3572.06" y="1953" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-153" value="Lieux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#f6ede2, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3572.06" y="1979" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-154" value="Mécaniques" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#f6ede2, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3572.06" y="2028" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-155" value="" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#f6ede2, #ededed);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3637.5499999999997" y="2020" as="sourcePoint" />
+            <mxPoint x="3566.5499999999997" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-156" value="ACTIF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#f6ede2, #ededed);fontStyle=5;fillColor=light-dark(#9e635c, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3532.06" y="2052" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-157" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;hover&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#f6ede2, #ededed);fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="3572.06" y="2078" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-158" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3499.06" y="1833" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-159" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#0d0d0d, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3512.06" y="3163" width="1444" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-160" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=12.06;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3468.06" y="1904" as="sourcePoint" />
+            <mxPoint x="3457.06" y="2704" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-161" value="When not : Welcome page = Sliding page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;horizontal=0;" vertex="1" connectable="0" parent="AWEW7dulBsZxIiq0QHkI-160">
+          <mxGeometry x="-0.2249" y="-3" relative="1" as="geometry">
+            <mxPoint y="55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-163" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=8;" edge="1" parent="1" source="AWEW7dulBsZxIiq0QHkI-145">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4986" y="1891" as="sourcePoint" />
+            <mxPoint x="5391" y="1919" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEW7dulBsZxIiq0QHkI-164" value="This must always stay visible" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="5373" y="1905.5" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
